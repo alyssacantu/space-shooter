@@ -3,7 +3,7 @@
  * Final Project (Spring 2017)
  * CSCI/CMPE 3326 
  */
-package mygame.demos;
+package mygame.demo;
 
 import mygame.components.Shooter;
 import mygame.engine.Window;
