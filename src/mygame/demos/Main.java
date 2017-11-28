@@ -5,7 +5,7 @@
  */
 package mygame.demos;
 
-import mygame.demo.shooter.Shooter;
+import mygame.components.Shooter;
 import mygame.engine.Window;
 
 public class Main 

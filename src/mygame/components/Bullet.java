@@ -4,7 +4,7 @@
  * CSCI/CMPE 3326 
  */
 
-package mygame.demo.shooter;
+package mygame.components;
 import mygame.engine.Sprite;
 
 class Bullet extends Sprite 

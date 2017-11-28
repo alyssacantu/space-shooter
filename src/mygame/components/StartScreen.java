@@ -4,7 +4,7 @@
  * CSCI/CMPE 3326 
  */
 
-package mygame.demo.shooter;
+package mygame.components;
 import java.awt.Graphics2D;
 import java.awt.event.KeyEvent;
 import mygame.engine.Sprite;
